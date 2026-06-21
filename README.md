@@ -1,5 +1,8 @@
 # Line Following Robot with micro-ROS and ROS 2
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/64f554b0-60b2-481e-9385-f0625dd24daa" />
+
+
 A simple line-following robot built using **ESP32**, **IR sensors**, and **micro-ROS** to learn the fundamentals of the ROS 2 ecosystem. The robot follows a black line using IR sensors while communicating with ROS 2 through micro-ROS running on the ESP32.
 
 This project was created as a hands-on learning platform for understanding:
